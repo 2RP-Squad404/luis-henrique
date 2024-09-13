@@ -19,14 +19,10 @@ Erros de Sintaxe: O uso inadequado de aspas ao redor dos nomes das tabelas e vie
 
 Padronização de Nomes: Havia inconsistências nos nomes das colunas e tabelas. Foi preciso renomear várias colunas para garantir uma nomenclatura consistente, facilitando a legibilidade e manutenção futura.
 
-Durante a criação das views, algumas dificuldades foram encontradas:
-
-Erros de Sintaxe:
-
-O uso incorreto de aspas ao redor dos nomes de tabelas e views gerou erros de sintaxe. Em vários casos, aspas foram aplicadas indevidamente em identificadores, o que causou falhas na execução das queries. A solução foi garantir que as referências às tabelas e views estivessem sem aspas, a menos que necessário.
+O uso errado de aspas ao redor dos nomes de tabelas e views gerou erros de sintaxe. Em vários casos, aspas foram aplicadas indevidamente em identificadores, o que causou falhas na execução das queries. A solução foi garantir que as referências às tabelas e views estivessem sem aspas, a menos que necessário.
 Referência a Tabelas e Views:
 
-Houve dificuldades ao referenciar tabelas e views de maneira correta no contexto do projeto e dataset. O problema foi resolvido ao entender a estrutura correta para identificar tabelas no formato projeto.dataset.tabela.
+dificuldade ao entender  tabelas e views de maneira correta no dataset
 
 ### 💡 Conclusão
 Conclusão
