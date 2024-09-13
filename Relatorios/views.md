@@ -5,7 +5,7 @@
 
  ## 📚 Resumo da Tarefa
 
- ### 📊 Relatório de Consolidação da criaçao das views
+ ### 📊 Relatório da criaçao das views
 
  Este relatório descreve a criação de diversas views para análise de dados de um sistema de compras. 
  O objetivo foi gerar resumos que facilitassem o entendimento de comportamentos de vendas, gastos de clientes e métodos de pagamento.
